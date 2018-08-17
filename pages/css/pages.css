@@ -12,7 +12,30 @@ body {
 }
 
 img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
-}
+    max-width: 100%; 
 
-/* Voeg jouw css hieraan toe */
+th{
+        color:#b24ad8;
+        margin: 50px;
+        align-content: center;
+        background-color: white;
+    }
+    
+    tr{
+        color: white; 
+        margin-left: 50px;
+        margin-right: 50px;
+        margin: 50px;
+        align-content: center;
+        background-color: black;
+    }
+    
+    table{
+        border-block-start: white;
+        margin: 50px;
+    }
+    
+    p{
+        color:hsla(284,65%,57%,1)
+    }
+    
